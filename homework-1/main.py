@@ -23,6 +23,8 @@ def add_data_to_customers(path = './north_data/customers_data.csv'):
         #close cursor mand connection
         conn.close()
 
+
+
 #add_data_to_customers()
 
 
